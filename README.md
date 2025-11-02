@@ -16,25 +16,14 @@ This dashboard was built to answer specific business questions by tracking the f
 
 📈 Top-Level KPIs (from Dashboard)
 
-Metric
+  Metric                   Value 
+💰Total Sales             $1.2M
 
-Value
+💸 Average Sales          $141
 
-💰 Total Sales
+📦 Number of Items        8523
 
-$1.2M
-
-💸 Average Sales
-
-$141
-
-📦 Number of Items
-
-8523
-
-⭐ Average Rating
-
-3.9
+⭐ Average Rating         3.9
 
 📊 Key Visualizations
 
