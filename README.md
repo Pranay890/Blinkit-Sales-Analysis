@@ -2,6 +2,7 @@
 
 A comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution to drive business optimization.
 
+
 ✨ Dashboard Showcase
 
 Here is the final interactive dashboard, consolidating all key metrics into a single, cohesive view.
@@ -10,9 +11,11 @@ Here is the final interactive dashboard, consolidating all key metrics into a si
 
 <img src="assets/image_5c06ac.png" alt="Blinkit Dashboard Preview" width="800"/>
 
+
 🎯 Key Features & KPIs
 
 This dashboard was built to answer specific business questions by tracking the following metrics and visualizations:
+
 
 📈 Top-Level KPIs (from Dashboard)
 
@@ -24,6 +27,7 @@ This dashboard was built to answer specific business questions by tracking the f
 📦 Number of Items        8523
 
 ⭐ Average Rating         3.9
+
 
 📊 Key Visualizations
 
@@ -40,6 +44,7 @@ This dashboard was built to answer specific business questions by tracking the f
 🔸 Sales by Outlet Location (Funnel Map)
 
 🔸 All Metrics by Outlet Type (Matrix Card)
+
 
 ⚙️ Project Process
 
@@ -67,11 +72,13 @@ This project was built following a structured data analysis lifecycle, from init
 
 ✅ Insights Generation
 
+
 💻 Tech Stack
 
 🔹 Primary Tool: Microsoft Power BI
 
 🔹 Language: DAX (Data Analysis Expressions)
+
 
 🚀 How to View the Report
 
